@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: Taşındık
+description: Github tarafından depolanan yeni yerimize taşındık
+category: genel
+author: olcay
+tags: [haberler]
+comments: true
+share: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Artık sizlere yeni adresimizde hizmet veriyor olacağız.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+[TechCicekSepeti](https://ciceksepeti.github.io/)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[(Kaynak)](https://github.com/ciceksepeti)

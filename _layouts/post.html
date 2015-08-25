@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    {{ page.author }} tarafından {{ page.date | date: "%B %e, %Y" }} tarihinde yazıldı.
   </div>
 
   {% include disqus.html %}
