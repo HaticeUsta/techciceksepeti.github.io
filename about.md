@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Hakkında
 permalink: /about/
 ---
 
@@ -8,6 +8,6 @@ TechCicekSepeti, ÇiçekSepeti firmasının teknoloji departmanıdır. Burada si
 
 ### Adres
 
-ÇiçekSepeti İnternet Hizmetleri A.Ş.'nin bulunduğu iş merkezine geldikten sonra birinci katta ayıcıktan sola dönünce.
+ÇiçekSepeti İnternet Hizmetleri A.Ş.'nin bulunduğu iş merkezine geldikten sonra birinci katta [ayıcık]({{ site.baseurl }}/images/office/ayicik.jpg)tan sola dönünce.
 
 ![tabela]({{ site.baseurl }}/images/office/tabela.jpg)
