@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+TechCicekSepeti, ÇiçekSepeti firmasının teknoloji departmanıdır. Burada sitelerin ön yüzünden, depodaki malın adedine kadar her şeyin kontrol edildiği sistemler hazırlanır. Çiçek satışı yapan sitelerin yanı sıra Mizu gibi çeşitli alanlarda e-ticaret siteleri de bu ekipten çıkmaktadır.
 
-### More Information
+### Adres
 
-A place to include any other types of information that you'd like to include about yourself.
+ÇiçekSepeti İnternet Hizmetleri A.Ş.'nin bulunduğu iş merkezine geldikten sonra birinci katta ayıcıktan sola dönünce.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+![tabela]({{ site.baseurl }}/images/office/tabela.jpg)
