@@ -12,8 +12,6 @@ Ofisimiz ve bize sunulan hizmetler.
 
 [![office]({{ site.baseurl }}/images/office/ofis_720.jpg)]({{ site.baseurl }}/images/office/ofis.jpg)
 
-[![ayicik]({{ site.baseurl }}/images/office/ayicik_720.jpg)]({{ site.baseurl }}/images/office/ayicik.jpg)
-
 ### Yemek
 
 Her gün mutfakta çeşitli poğaça, simit ve açmalar bulunmaktadır.
