@@ -2,7 +2,7 @@
 layout: null
 ---
 /* TEAM */
-{% for author in site.data.team %}
+{% for author in site.data.humans %}
     {% if author[1].employed %}
 	{{ author[1].title }}: {{ author[1].name }}
 	Site: {{ author[1].web }}
