@@ -9,8 +9,9 @@ layout: default
     {{ content }}
   </div>
 
+  {% assign author = site.data.humans[page.author] %}
   <div class="date">
-    {{ page.author }} tarafından {{ page.date | date: "%B %e, %Y" }} tarihinde yazıldı.
+    <a rel="author" href="{{ author.web }}" title="{{ author.name }}"> {{ author.name }}</a> tarafından {{ page.date | date: "%B %e, %Y" }} tarihinde yazıldı.
   </div>
 
   {% include disqus.html %}
