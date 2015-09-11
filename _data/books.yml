@@ -1,0 +1,17 @@
+- name:      "Professional WCF 4: Windows Communication Foundation with .NET 4"
+  image:     http://ecx.images-amazon.com/images/I/51GXqpHajXL._SL194_.jpg
+  isbn:      9780470563144
+  author:    "Pablo Cibraro, Kurt Claeys, Fabio Cozzolino, Johann Grabner"
+  avaliable: true
+
+- name:      "Management 3.0: Leading Agile Developers, Developing Agile Leaders"
+  image:     http://ecx.images-amazon.com/images/I/51ZwNAYF%2BTL._SL194_.jpg
+  isbn:      9780321712479
+  author:    Jurgen Appelo
+  avaliable: true
+
+- name:      "Growing Object-Oriented Software, Guided by Tests"
+  image:     http://ecx.images-amazon.com/images/I/51fUKOog3VL._SL194_.jpg
+  isbn:      9780321503626
+  author:    "Steve Freeman, Nat Pryce"
+  avaliable: true
