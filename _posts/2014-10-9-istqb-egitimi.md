@@ -3,7 +3,7 @@ layout: post
 title: ISTQB Eğitimi
 description: ISTQB eğitiminde yazılım testi ile ilgili önemli konulara ve örneklere değinilmiştir.
 category: sunum
-author: olcay
+author: admin
 tags: [sunum, istqb]
 comments: true
 share: true

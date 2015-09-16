@@ -15,3 +15,9 @@ onuralp:
   title:     Software Developer
   web:       http://www.onuralptaner.com/
   employed:  true
+
+admin:
+  name:      Blog Admin
+  title:     Admin
+  web:       http://techciceksepeti.github.io/
+  employed:  false
