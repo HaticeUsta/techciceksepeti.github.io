@@ -5,6 +5,9 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
+		{% if post.featureImg %}
+			<img src="{{ site.baseurl }}/images/{{ post.featureImg }}"/>
+		{% endif %}
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
