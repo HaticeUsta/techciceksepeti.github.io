@@ -6,10 +6,14 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 		{% if post.featureImg %}
-			<img class="featureImg" src="{{ site.baseurl }}/images/{{ post.featureImg }}"/>
+			<a href="{{ site.baseurl }}{{ post.url }}">
+        <img class="featureImg" src="{{ site.baseurl }}/images/{{ post.featureImg }}"/>
+      </a>
 		{% endif %}
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h1>
 
       <div class="entry">
         {{ post.excerpt }}

@@ -111,8 +111,19 @@ img {
 }
 
 .featureImg {
-    padding-top: 10px;
-    margin-bottom: -25px;
+  padding-top: 10px;
+  margin-bottom: -25px;
+}
+
+.panaroma-outer img {
+  max-width: none;
+}
+
+.panaroma-outer { 
+  overflow-x: scroll; 
+  max-width: 100%; 
+  height: 600px;
+  margin-bottom: 30px;
 }
 
 // Fixes images in popup boxes from Google Translate
