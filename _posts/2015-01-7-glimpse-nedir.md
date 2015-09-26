@@ -5,8 +5,7 @@ description: Eğer web projeleri ile çalışmışsanız mutlaka Firebug ve tür
 category: araçlar
 author: onuralp
 tags: [sunum]
-comments: true
-share: true
+featureImg: glimpse/glimpsePanel.png
 ---
 Eğer web projeleri ile çalışmışsanız mutlaka [Firebug](http://getfirebug.com/) ve türevlerini kullanmışsınızdır. Glimpse firebug’a çok benzer ancak büyük bir farkı vardır. Firebug size istemci taraflı aksiyonları sunarken glimpse sunucuda neler olduğunu gösterir. StackExchange’in [MiniProfiler](http://miniprofiler.com/)‘ını biliyorsanız onun gelişmiş ve genişletilebilir versiyonu olarak da düşünebilirsiniz.
 

@@ -16,6 +16,30 @@ onuralp:
   web:       http://www.onuralptaner.com/
   employed:  true
 
+alibalci:
+  name:      Ali Balcı
+  title:     Software Developer
+  web:       https://tr.linkedin.com/pub/ali-balci/31/777/a46
+  employed:  true
+
+kaancelebi:
+  name:      Kaan Çelebi
+  title:     Software Developer
+  web:       https://tr.linkedin.com/in/celebikaan
+  employed:  true
+
+mgunes:
+  name:      Mesut Güneş
+  title:     İş Zekası ve Veri Ambarı Yazılım Geliştirme Uzmanı
+  web:       http://www.mesutx.com/
+  employed:  false
+
+sgungor:
+  name:      Selin Güngör
+  title:     Software Test Engineer
+  web:       https://tr.linkedin.com/pub/selin-gungor/80/b37/62a
+  employed:  false
+
 admin:
   name:      Blog Admin
   title:     Admin
