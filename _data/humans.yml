@@ -45,3 +45,9 @@ admin:
   title:     Admin
   web:       http://techciceksepeti.github.io/
   employed:  false
+  
+engincancan:
+  name:      Engin CAN
+  title:     Mobil Yazılım Uzmanı
+  web:       http://engincancan.com
+  employed:  true
