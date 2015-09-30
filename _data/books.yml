@@ -15,3 +15,68 @@
   isbn:      9780321503626
   author:    "Steve Freeman, Nat Pryce"
   avaliable: true
+  
+- name:      "Jquery"
+  image:     http://ecx.images-amazon.com/images/I/410CBvL94iL._SL194_.jpg
+  isbn:      9786058758865
+  author:    "Cankat Akdemir"
+  avaliable: true
+  
+- name:      "A'dan Z'ye Jquery"
+  image:     http://ecx.images-amazon.com/images/I/416RJyt8LdL._SL194_.jpg
+  isbn:      9789750223525
+  author:    "Riza Celik"
+  avaliable: true
+  
+- name:      "Facebook Programlama"
+  image:     http://ecx.images-amazon.com/images/I/41TIL-H5WVL._SL194_.jpg
+  isbn:      9786058758803
+  author:    "Ibrahim Hizlioglu"
+  avaliable: true
+  
+- name:      "Her Yonuyle Html5"
+  image:     http://ecx.images-amazon.com/images/I/51JwqtJzYQL._SL194_.jpg
+  isbn:      9786058758803
+  author:    "Ibrahim Celikbilek"
+  
+- name:      "Pro HTML5 Programming: Powerful APIs for Richer Internet Application Development (Expert's Voice in Web Development)"
+  image:     http://ecx.images-amazon.com/images/I/5125JVikc1L._SL194_.jpg
+  isbn:      9781430227908
+  author:    "Peter Lubbers; Brian Albers; Frank Salim"
+  avaliable: true
+  
+- name:      "Building Android Apps with HTML, CSS, and JavaScript: Making Native Apps with Standards-Based Web Tools"
+  image:     http://ecx.images-amazon.com/images/I/51ZRTLA1txL._SL194_.jpg
+  isbn:      9781449316419
+  author:    "Jonathan Stark; Brian Jepson; Brian MacDonald"
+  avaliable: true
+  
+- name:      "User Stories Applied: For Agile Software Development"
+  image:     http://ecx.images-amazon.com/images/I/5139MMztLeL._SL194_.jpg
+  isbn:      9780321205681
+  author:    "Mike Cohn"
+  avaliable: true
+  
+- name:      "Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition (Addison-Wesley Signature Series (Cohn))"
+  image:     http://ecx.images-amazon.com/images/I/51loQrUFfVL._SL194_.jpg
+  isbn:      9780321637703
+  author:    "Lyssa Adkins"
+  avaliable: true
+  
+- name:      "Mastering Web Application Development with AngularJS"
+  image:     http://ecx.images-amazon.com/images/I/51AQSj%2BLbYL._SL194_.jpg
+  isbn:      9781782161820
+  author:    "Pawel Kozlowski; Peter Bacon Darwin"
+  avaliable: true
+  
+- name:      "Web Performance Daybook Volume 2"
+  image:     http://ecx.images-amazon.com/images/I/515JTDlVIcL._SL194_.jpg
+  isbn:      9781449332914
+  author:    "Stoyan Stefanov"
+  avaliable: true
+  
+- name:      "Secrets of the JavaScript Ninja"
+  image:     http://ecx.images-amazon.com/images/I/51UYwOhvQPL._SL194_.jpg
+  isbn:      9781933988696
+  author:    "John Resig; Bear Bibeault"
+  avaliable: true
