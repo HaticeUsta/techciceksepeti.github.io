@@ -298,21 +298,25 @@ footer {
   text-align: center;
 }
 
-div.book {
-    margin: 15px 0;
+.book {
+    margin: 25px 0;
 }
 
-div.book div.thumbnail img {
+.book .thumbnail  {
+    width: 175px;
     float: left;
-    margin-right: 20px;
 }
 
-div.book div.bookinfo {
+.book .bookinfo {
     float: left;
     width: 545px;
 }
 
-div.book p {
+.book .bookinfo h2 {
+    margin-top:0;
+}
+
+.book p {
     margin: 3px 0;
     font-size: 12px;
 }
