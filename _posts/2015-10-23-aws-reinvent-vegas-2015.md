@@ -8,13 +8,13 @@ tags: [sunum, aws, reinvent, vegas]
 ---
 Teknoloji ekibimizden Teknoloji Müdürümüz Birkan Boğaç Öznalçın, Yazılım Mimarımız Tamer Boncooğlu ve altyapı sorumlumuz Ercan Him 2015 yılı Ekim ayında Vegas'da yapılan [AWS re:Invent](https://reinvent.awsevents.com/) etkinliğine katıldılar.
 
-[![aws]({{ site.baseurl }}/images/aws2015/a1_384.jpg)]({{ site.baseurl }}/images/aws2015/a1.jpg)
+[![aws]({{ site.baseurl }}/images/aws2015/aws1_384.jpg)]({{ site.baseurl }}/images/aws2015/aws1.jpg)
 
-[![aws]({{ site.baseurl }}/images/aws2015/a2_384.jpg)]({{ site.baseurl }}/images/aws2015/a2.jpg)
+[![aws]({{ site.baseurl }}/images/aws2015/aws2_384.jpg)]({{ site.baseurl }}/images/aws2015/aws2.jpg)
 
-[![aws]({{ site.baseurl }}/images/aws2015/a3_384.jpg)]({{ site.baseurl }}/images/aws2015/a3.jpg)
+[![aws]({{ site.baseurl }}/images/aws2015/aws3_384.jpg)]({{ site.baseurl }}/images/aws2015/aws3.jpg)
 
-[![aws]({{ site.baseurl }}/images/aws2015/a4_384.jpg)]({{ site.baseurl }}/images/aws2015/a4.jpg)
+[![aws]({{ site.baseurl }}/images/aws2015/aws4_384.jpg)]({{ site.baseurl }}/images/aws2015/aws4.jpg)
 
 
 19 bin kişinin katıldığı bu dev organizasyonda bir çok yenilikten haberdar olup oldukça yararlı bir çok eğitime katıldılar. Bunun yanında Amazon'un yeni açıkladığı bir çok ürünü yerinde dinleyip, demolarını izlediler.
