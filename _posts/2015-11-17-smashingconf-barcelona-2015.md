@@ -14,9 +14,10 @@ Etkinlikler, konferanstan bir gün önce Elisava Design School'da düzenlenen at
  
 ![smashing conf]({{ site.baseurl }}/images/smashingconf2015/fotograf-2.jpg)
  
-Katıldığım çalışmanın ana konusu olan Responsive Design ile ilgili olarak Vitaly, gün boyu süren eğitimde değerli bilgiler aktardı. Hazırlamış olduğu 3000'den fazla slide ile oldukça yoğun ama keyifli bir gündü.  
+Katıldığım çalışmanın ana konusu olan Responsive Design ile ilgili olarak Vitaly, gün boyu süren eğitimde değerli bilgiler aktardı. Hazırlamış olduğu 3000'den fazla slide ile oldukça yoğun ama keyifli bir gündü.
+
 Vitaly, responsive design sürecinde karşılaştığımız ya da karşılaşılabilecek pek çok problemin çözümü konusunda katılımcılardan çözüm beklerken bir yandan kendi çözümleri ve kullandığı araçlardan bahsetti. Standartlaşmış bazı komponentlerin (Örn. Hamburger menüler, Carousel, Arama kutuları) mobil kullanımda UX açısından avantaj ve dezavantajları hakkında önemli bilgiler verirken bir yandan özellikle Web fontlar, Font ikonlar, SVG kullanımı, responsive imajlar, performans, Flexbox, modern tekniklerin Explorer'a yönelik çalışmaları gibi pek çok front-end konusuna da değindi.  
-Smashing Magazine'in optimizasyonunu konu aldığı bölüm ise en ilgi çekici sunumlarından biriydi. (Bu konudaki bir makaleyi [http://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/] adresinden okuyabilirsiniz.) Son trendleri kavramak ve kullanım örneklerini görmek açısından harika bir deneyimdi. 
+Smashing Magazine'in optimizasyonunu konu aldığı bölüm ise en ilgi çekici sunumlarından biriydi. (Bu konudaki bir makaleyi http://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/ adresinden okuyabilirsiniz.) Son trendleri kavramak ve kullanım örneklerini görmek açısından harika bir deneyimdi. 
  
 ## Konferans 1. gün  
  
@@ -24,7 +25,8 @@ Smashing Magazine'in optimizasyonunu konu aldığı bölüm ise en ilgi çekici 
  
 ![smashing conf]({{ site.baseurl }}/images/smashingconf2015/fotograf-3.jpg)
  
-Chris'in ardından ikinci konuşmacı Jina Bolton [@jina](https://twitter.com/jina) idi. "Living Design Systems" isimli konuşmasında Jina, salesƒorce ‘[Lightning design system](https://www.lightningdesignsystem.com/)’ hakkında bir konuşma yaptı. Front-end developer'lar ve tasarımcılar için ilgi çekici bir konu olan "style guide" kullanımından ve bu tarz tasarım sistemlerini kullanırken karşımıza çıkabilecek sorunlardan bahsetti.  
+Chris'in ardından ikinci konuşmacı Jina Bolton [@jina](https://twitter.com/jina) idi. "Living Design Systems" isimli konuşmasında Jina, salesƒorce ‘[Lightning design system](https://www.lightningdesignsystem.com/)’ hakkında bir konuşma yaptı. Front-end developer'lar ve tasarımcılar için ilgi çekici bir konu olan "style guide" kullanımından ve bu tarz tasarım sistemlerini kullanırken karşımıza çıkabilecek sorunlardan bahsetti.
+
 Büyük ölçekli projelerdeki iş akışı ile style guide'ların sürdürülebilirliği hakkında güzel ipuçları içeren bir konuşmaydı.  Ayrıca bir ilgi çekici konu da, Çiçeksepeti'nde de kullanmakta olduğumuz ve front-end standardı hale getirdiğimiz BEM (Block Element Modifier) isimlendirme sisteminin kullanım örneklerinden bahsedilmesiydi. 
  
 Günün ilgi çekici konuşmalarından biri Patrick Hamann'ın [@patrickhamann](https://twitter.com/patrickhamann) "Embracing the Network" isimli konuşmasıydı. Patrick, performans konusuna yoğunlaştığı konuşmasında, geçmiş yıllarda The Guardian ve Financial Times web sitelerinde edindiği tecrübeleri aktardı.  
@@ -36,7 +38,7 @@ Benim için günün en vurucu konuşması, teknik konulara değinilmeyen, gayet 
  
 Seb Lester'ın ardından Joe Leech [@mrjoe](https://twitter.com/mrjoe), UX konulu bir konuşma yaptı. İstatistik verileri ile tasarım kararları almaktan ve ufak değişikliklerin dönüşüm oranında yaratabileceği büyük etkilerden bahsetti. 
  
-Günün son konuşmacısı Brendan Dawes [@brendandawes](https://twitter.com/brendandawes) idi. Kendini kısaca tasarımcı olarak tanımlayan bu adam, muhtemelen günün en çatlak konuşmacısıydı. [http://www.brendandawes.com] adresinden çılgın projelerini incelemenizi öneririm.  
+Günün son konuşmacısı Brendan Dawes [@brendandawes](https://twitter.com/brendandawes) idi. Kendini kısaca tasarımcı olarak tanımlayan bu adam, muhtemelen günün en çatlak konuşmacısıydı. http://www.brendandawes.com adresinden çılgın projelerini incelemenizi öneririm.  
  
  
 ## Konferans 2. gün  
@@ -51,7 +53,7 @@ Espen'in güzel konuşmasından sonra bence bu günün en etkileyici konuşması
  
 Konferansın son konuşmasını karizmatik sunumuyla Andy Clarke [@Malarkey](https://twitter.com/Malarkey) yaptı fakat ne yazık ki havalı takım elbisesinden başka hiçbir şey kalmadı aklımda.  
  
-Smashingconf Barcelona'yı böylece noktaladık. Her anlamda kusursuz bir konferanstı diyebilirim. Farklı kültürlerden yeni insanlarla tanışmak, bir yandan Barcelona'yı keşfetmek herkes için heyecan verici bir tecrübeydi.  Umarım yakın gelecekte ülkemizde de bir SmashingConf düzenlenir. 
+Smashingconf Barcelona'yı böylece noktaladık. Her anlamda kusursuz bir konferanstı diyebilirim. Farklı kültürlerden yeni insanlarla tanışmak, bir yandan Barcelona'yı keşfetmek herkes için heyecan verici bir tecrübeydi. Umarım yakın gelecekte ülkemizde de bir SmashingConf düzenlenir. 
  
 Konferanstaki hemen hemen tüm slide'lara aşağıdaki linkten ulaşabilirsiniz: 
-[http://lanyrd.com/2015/smashingconf-barcelona/coverage/]
+http://lanyrd.com/2015/smashingconf-barcelona/coverage/
