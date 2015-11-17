@@ -45,9 +45,15 @@ admin:
   title:     Admin
   web:       http://techciceksepeti.github.io/
   employed:  false
-  
+
 engincancan:
   name:      Engin CAN
   title:     Mobil Yazılım Uzmanı
   web:       http://engincancan.com
+  employed:  true
+
+orkuntuzel:
+  name:      Ozan Orkun Tüzel
+  title:     Frontend Yazılım Uzmanı
+  web:       http://orkuntuzel.com
   employed:  true

@@ -3,7 +3,7 @@ layout: post
 title: AWS re:Invent 2015
 description: Teknoloji ekibimiz 2015 yılı Ekim ayında Vegas'da yapılan AWS re:Invent etkinliğine katıldı.
 category: sunum
-author: lcay
+author: olcay
 tags: [sunum, aws, reinvent, vegas]
 ---
 Teknoloji ekibimizden Teknoloji Müdürümüz Birkan Boğaç Öznalçın, Yazılım Mimarımız Tamer Boncooğlu ve altyapı sorumlumuz Ercan Him 2015 yılı Ekim ayında Vegas'da yapılan [AWS re:Invent](https://reinvent.awsevents.com/) etkinliğine katıldılar.
